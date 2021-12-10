@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\altanai\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\altanai\\.nuget\\packages"
+    ]
+  }
+}
